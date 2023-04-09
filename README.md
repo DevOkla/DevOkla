@@ -8,6 +8,6 @@
 - 💫 Fun Facts: I love eSports, Travelling and Nature! 
 
 Connect With me: 
-<img src="[url](https://user-images.githubusercontent.com/103046974/230775546-bc0e3ad8-ec9a-4e89-b5d2-6e5f993edcaa.png)"   width="300px" height="300px">
+<img src="https://user-images.githubusercontent.com/103046974/230775546-bc0e3ad8-ec9a-4e89-b5d2-6e5f993edcaa.png"   width="30px" height="30px">
  
 ](https://www.linkedin.com/in/maamoun-okla-283120235/)
