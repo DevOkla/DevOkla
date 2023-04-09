@@ -9,5 +9,5 @@
 
 Connect With me: 
 
-[![linkedin](https://user-images.githubusercontent.com/103046974/230775546-bc0e3ad8-ec9a-4e89-b5d2-6e5f993edcaa.png =250x250)
+[![linkedin](https://user-images.githubusercontent.com/103046974/230775546-bc0e3ad8-ec9a-4e89-b5d2-6e5f993edcaa.png)
 ](https://www.linkedin.com/in/maamoun-okla-283120235/).
