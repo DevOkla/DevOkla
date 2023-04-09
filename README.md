@@ -9,5 +9,4 @@
 
 Connect With me: 
 
-[LinkedIn](https://www.linkedin.com/in/maamoun-okla-283120235/).
-[![github]]
+[![image](https://user-images.githubusercontent.com/103046974/230775479-6a204153-15ae-413f-88ac-a2e56ea305ab.png)](https://www.linkedin.com/in/maamoun-okla-283120235/).
