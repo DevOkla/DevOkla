@@ -1,6 +1,6 @@
 # Hi👋 I'm DevOkla
-[![Screenshot 2023-09-10 192531.png](Screenshot 2023-09-10 192531.png)](https://github.com/DevOkla/DevOkla/blob/main/Screenshot%202023-09-10%20192531.png)
 
+![image description](https://github.com/DevOkla/DevOkla/blob/main/Screenshot%202023-09-10%20192531.png)
 
 - 💯 Working on React and JavaScript.
 - 🌱 I'm currently learning TypeScript and Redux.
